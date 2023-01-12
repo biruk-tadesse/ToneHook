@@ -5,5 +5,4 @@ ToneHook is a song recommender web application. To get started, clone this repo 
 
 To run the app, you can do:
 ```
-streamlit run app.py
-```
+streamlit run app.py```
